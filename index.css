@@ -422,4 +422,10 @@ font-style: normal;
 font-weight: 700;
 line-height: 24px; /* 171.429% */
 }
+.fot-img:hover{
+    transform: scale(1.5);
+    transition: transform 3s 2s 3s  ease-in-out;
+}
+
+
 
